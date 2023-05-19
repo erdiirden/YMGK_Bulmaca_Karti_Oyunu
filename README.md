@@ -1,8 +1,8 @@
 # YMGK Bulmaca Karti Oyunu
-Unity ile YMGK dersi vize dönemi projesi olarak yaptığım Bulmaca Kartı oyunu.
+👨‍💻 Unity ile YMGK dersi vize dönemi projesi olarak yaptığım Bulmaca Kartı oyunu.
 
 ## APK İndir
-- ⚡ Bulmaca_Karti_APK.rar dosyasını indirerek oyunu apk olarak elde edebilirsiniz.
+⚡ Bulmaca_Karti_APK.rar dosyasını indirerek oyunu apk olarak elde edebilirsiniz.
 
 ## Oyunun Amacı
 - 🤔 Oyunun genel amacı satır ve sutunlardaki resimlere karşılık gelen sayıları bulup bulmacayı çözmek.
