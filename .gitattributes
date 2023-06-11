@@ -3,5 +3,4 @@
 *.tex linguist-detectable=false
 *.cpp linguist-detectable=false
 *.c linguist-detectable=false
-Managed* linguist-vendored=false
-il2cppOutput* linguist-vendored=false
+bulmaca kartı_BackUpThisFolder_ButDontShipItWithYourGame* linguist-vendored=false
